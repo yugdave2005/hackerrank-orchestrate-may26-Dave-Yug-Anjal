@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Overview
+## Approach Overview
 
 This terminal-based triage agent automates the resolution of support tickets by combining **semantic search**, **BM25 keyword retrieval**, and **LLM reasoning**. Built for the HackerRank Orchestrate 2026 hackathon, it processes `.csv` ticket dumps and categorizes, answers, or safely escalates them.
 
@@ -52,7 +52,7 @@ graph TD
 
 ---
 
-## 🚀 Getting Started
+## Setup Instructions
 
 ### 1. Prerequisites
 - Python 3.10 or higher
