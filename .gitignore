@@ -31,3 +31,9 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+
+# output
+output.csv
+
+# packaging
+*.egg-info
