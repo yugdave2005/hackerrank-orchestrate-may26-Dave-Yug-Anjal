@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/banner.png" alt="AI Support Triage Agent Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="https://github.com/yugdave2005/hackerrank-orchestrate-may26-Dave-Yug-Anjal/blob/main/assets/banner.png" alt="AI Support Triage Agent Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 
   <h1>🚀 AI Support Triage Agent</h1>
   <p><b>A production-ready RAG agent for intelligent, multi-domain support ticket routing across the HackerRank, Claude, and Visa ecosystems.</b></p>
